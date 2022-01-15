@@ -1,0 +1,25 @@
+<mxfile host="65bd71144e">
+    <diagram id="RhhkGdW3605eQhO4KnPu" name="Page-1">
+        <mxGraphModel dx="1051" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Main&lt;div style=&quot;text-align: justify&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="110" width="720" height="410" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Sidebar" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#000000;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="130" width="120" height="380" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Header Image" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="95" y="160" width="110" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="&lt;br&gt;Education&lt;br&gt;Fashion&lt;br&gt;Sport&lt;br&gt;Travel&lt;br&gt;Technology&lt;br&gt;Lifestyle&lt;br&gt;&lt;br&gt;Contact&lt;br&gt;&lt;br&gt;Email&amp;nbsp; &amp;nbsp; LinkedIn" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="95" y="230" width="110" height="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Content Field&lt;br&gt;&lt;br&gt;Displays component outline in sidebar; field of image samples that expand when clicked (except contact page)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="219" y="130" width="570" height="380" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
